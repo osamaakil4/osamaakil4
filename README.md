@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhammed Usame Akil | Merhaba, Ben Muhammed Usame Akil!
+# 👋 Hello, I'm Muhammed Usame Akil 
 
 <div align="center">
   
@@ -14,7 +14,7 @@
 Computer Engineering student at Fırat University, consistently ranking in the **top 10%** of my class. Passionate about software development with a growing interest in cybersecurity. High school **valedictorian** maintaining academic excellence at university level.
 
 **🇹🇷 Türkçe:**
-Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisi, sınıfımın **ilk %10'unda** yer alıyorum. Yazılım geliştirme tutkum var ve siber güvenlik alanına artan ilgi duyuyorum. **Lise birincisi** olarak üniversitede akademik mükemmelliğimi sürdürüyorum.
+Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisi, Yazılım geliştirme tutkum var ve siber güvenlik alanına artan ilgi duyuyorum. **Lise birincisi** olarak üniversitede akademik mükemmelliğimi sürdürüyorum.
 
 ---
 
@@ -25,18 +25,13 @@ Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisi, sınıfımın **ilk 
 ### Programming Languages | Programlama Dilleri
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Frameworks & Tools | Çerçeveler ve Araçlar
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### Databases | Veritabanları
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Cybersecurity | Siber Güvenlik
 ![Security](https://img.shields.io/badge/Cybersecurity-FF6B35?style=for-the-badge&logo=security&logoColor=white)
@@ -74,30 +69,7 @@ Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisi, sınıfımın **ilk 
 - **Purpose:** Educational institution management system
 - **Status:** Active Development
 
----
 
-## 🏆 Achievements & Certifications | Başarılar ve Sertifikalar
-
-<div align="center">
-
-### 🎓 Academic Excellence | Akademik Mükemmellik
-![Academic](https://img.shields.io/badge/High%20School-Valedictorian-gold?style=for-the-badge)
-![University](https://img.shields.io/badge/University-Top%2010%25-blue?style=for-the-badge)
-
-### 🔐 Cybersecurity Certifications | Siber Güvenlik Sertifikaları
-- **Cyber Security Basics & Introduction**
-- **Attack Techniques & System Protection (Introductory)**
-
-### 💻 Technical Certifications | Teknik Sertifikalar
-- **ICDL Certification** (Computer Essentials, Word, Excel, Internet & Email)
-
-### 👨‍💼 Leadership & Management | Liderlik ve Yönetim
-- **Influential Leadership & Management Skills**
-- **Time and Stress Management**
-
-</div>
-
----
 
 ## 🌐 Languages | Diller
 
@@ -134,8 +106,7 @@ Fırat Üniversitesi Bilgisayar Mühendisliği öğrencisi, sınıfımın **ilk 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamaakil4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamaakil4)
 
-📧 **Email:** osamaakil4@gmail.com  
-📱 **Phone:** +90 534 305 48 83  
+📧 **Email:** osamaakil4@gmail.com   
 📍 **Location:** Istanbul, Turkey | İstanbul, Türkiye
 
 </div>
